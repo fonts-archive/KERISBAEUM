@@ -1,4 +1,4 @@
-# 학교안심 어항꾸미기
+# 케리스 배움체
 
 [배포처 바로가기](https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202512150000000000001)
 
