@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "KERIS BAEUM";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_L.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_L.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_L.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_L.ttf") format("truetype");
+}
+@font-face {
+  font-family: "KERIS BAEUM";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_R.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_R.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_R.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_R.ttf") format("truetype");
+}
+@font-face {
+  font-family: "KERIS BAEUM";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_B.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_B.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_B.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_B.ttf") format("truetype");
+}
+@font-face {
+  font-family: "KERIS BAEUM";
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_EB.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_EB.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_EB.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/KERISBAEUM/KERISBAEUM_EB.ttf") format("truetype");
+}
